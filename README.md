@@ -12,7 +12,7 @@ The online tool used to transpose the files: https://www.convertcsv.com/transpos
 
 ## Data Visualization ##
 
-To visualize the data, column graphs were plotted for each POS tag by the normalized sum of frequencies per word to make the graphs more easily comparable. Then, a column graph was created for total frequency per POS tag.
+To visualize the data, column graphs were plotted for each POS tag by the normalized sum of frequencies per word to make the graphs more easily comparable. Then, a column graph was created for total frequency per POS tag. They can be seen at: https://dennish3.github.io/
 
 # Files #
 
