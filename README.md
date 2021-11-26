@@ -18,6 +18,6 @@ To visualize the data, column graphs were plotted for each POS tag by the normal
 
 - Folders contain manipulated data of the original files. The original files will not be shared, nor will the project description.
 - Workflow includes all KNIME workflows used in this project
-- Correlation1000words.csv: contiains the correlation values of all 1000 words
+- Correlation1000words.csv: contains the correlation values of all 1000 words
 - DBSCAN epsilon.ipynb: program that optimizes the epsilon parameter for DBSCAN clustering
 - K-means.ipynb: program that performs k-means clustering (source: https://medium.com/@lucasdesa/text-clustering-with-k-means-a039d84a941b)
